@@ -23,7 +23,7 @@
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/e43ce0bc-4d5b-4f50-8d6a-efbfdee0cfee" width="200" height="200">
 
-#TIM3, TIM10 설정 (PWN)
+#TIM3, TIM10 설정 (PWM)
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/6e3c8f28-d10c-4828-8a1a-22fcf64f4f57" width="300" height="300">         <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/abc73eec-f3d2-454a-a0a4-667c50bb17b1" width="300" height="300">
 
