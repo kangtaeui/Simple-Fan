@@ -1,18 +1,18 @@
 # Simple-Fan
 회전 기능과 세기 조절을 탑재한 선풍기
 
-#ioc file image
+# ioc file image
 
 ![스크린샷 2023-11-14 144651](https://github.com/kangtaeui/Simple-Fan/assets/141004174/e9387feb-92d5-4b24-a1ff-9c75d9aaf09d)
 
 
-#Clock Configuration
+# Clock Configuration
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/f48473df-ae00-4bed-9ca8-b7b69064e03b" width="600" height="300">
 
 
 
-#Simple Fan's Schematic
+# Simple Fan's Schematic
 
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/e58e43c7-de82-4568-8e13-6c5856c115c1" width="300" height="300"> <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/813c6426-2517-4041-a4dd-21afa54992c1" width="300" height="300">
@@ -23,11 +23,15 @@
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/e43ce0bc-4d5b-4f50-8d6a-efbfdee0cfee" width="200" height="200">
 
-#TIM3, TIM10 설정 (PWM)
+# TIM3, TIM10 설정 (PWM)
 
 <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/6e3c8f28-d10c-4828-8a1a-22fcf64f4f57" width="300" height="300">         <img src="https://github.com/kangtaeui/Simple-Fan/assets/141004174/abc73eec-f3d2-454a-a0a4-667c50bb17b1" width="300" height="300">
 
+# Flowchart
 
-#Video
+![스크린샷 2023-12-27 162608](https://github.com/kangtaeui/Simple-Fan/assets/141004174/7c44fa10-3065-49bd-b92a-31f5a7daf9e2)
+
+
+# Video
 
 https://youtu.be/LkyZmlT8Q-Q
